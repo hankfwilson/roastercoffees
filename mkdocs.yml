@@ -1,0 +1,7 @@
+site_name: test
+site_url: https://github.com/hankfwilson/test/
+repo_url: https://github.com/hankfwilson/test.git
+docs_dir: docs
+theme: readthedocs
+nav:
+    - Home: index.md
