@@ -6,3 +6,6 @@ Site services include providing wonderful coffee brewing guides, coffee grinding
 The website also provides some great tools, a French press ratio calculator that helps you quickly find the right French press coffee ratio, a caffeine calculator that helps you check if you are over-intaking caffeine today, and so on.
 #
 If you are interested in the website's services or you are a coffee fan, please visit [Roaster Coffees](https://roastercoffees.com/), a place full of surprises for you. 
+
+![roastercoffees.com v1](https://roastercoffees.com/wp-content/uploads/2021/08/roastercoffees.com-homepage-v1.png)
+
