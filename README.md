@@ -3,7 +3,7 @@
 
 This is the repo of Roastercoffees.com, a website that provides great resources for coffee lovers.
 
-This repo covers some e-books and resources of the website.
+This repo covers some data of e-books and resources on the website.
 
 Welcome to visit us in the following ways:
 
