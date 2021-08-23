@@ -8,3 +8,6 @@ This repo covers some e-books and resources of the website.
 Welcome to visit us in the following ways:
 
 Website:  [https://roastercoffees.com/](https://roastercoffees.com/)
+
+ [docs-readthedocs-svg]: https://img.shields.io/badge/docs-readthedocs-blue.svg
+ [docs-readthedocs-link]: http://enrondata.readthedocs.org/
