@@ -7,5 +7,5 @@ The website also provides some great tools, a French press ratio calculator that
 #
 If you are interested in the website's services or you are a coffee fan, please visit [Roaster Coffees](https://roastercoffees.com/), a place full of surprises for you. 
 
-![roastercoffees.com v1](https://roastercoffees.com/wp-content/uploads/2021/08/roastercoffees.com-homepage-v1.png)
+[![the homepage of roastercoffees.com. version-1](https://roastercoffees.com/wp-content/uploads/2021/08/roastercoffees.com-homepage-v1.png "roastercoffees.com-homepage-v1")](https://roastercoffees.com)
 
