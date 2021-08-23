@@ -3,7 +3,7 @@ Roaster Coffees is a website that provides varieties of great resources for coff
 
 Roaster Coffees is a website that provides people with great coffee resources and helps people brew better quality coffee.
 
-The resources provided by the website include, but are not limited to, a wealth of coffee recipes, various brewing methods that must be suitable for you, fast and convenient online tools to help you brew better, and checked coffee facts to help you learn more information about coffee and the home coffee market will help you make an informed decision when buying. There is also a caffeine calculator that can calculate your total caffeine today.
+The resources provided by the website include, but are not limited to, a wealth of coffee recipes, various brewing methods that must be suitable for you, fast and convenient online tools to help you brew better, and checked coffee facts to help you learn more information about coffee and the home coffee market will help you make an informed decision when buying. There is also a caffeine calculator that can calculate your daily total caffeine.
 
 If you drink coffee or are a coffee fan, welcome to visit us in the following ways:
 
