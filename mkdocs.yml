@@ -1,6 +1,6 @@
-site_name: test
-site_url: https://github.com/hankfwilson/test/
-repo_url: https://github.com/hankfwilson/test/
+site_name: roastercoffees
+site_url: https://github.com/hankfwilson/roastercoffees
+repo_url: https://github.com/hankfwilson/roastercoffees
 edit_uri: ""
 docs_dir: docs
 theme: readthedocs
