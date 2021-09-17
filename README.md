@@ -12,7 +12,7 @@ Website:  [https://roastercoffees.com/](https://roastercoffees.com/)
 Download App:  [https://www.amazon.com/dp/B09BM3VYPF](https://www.amazon.com/dp/B09BM3VYPF)
 
  [docs-readthedocs-svg]: https://img.shields.io/badge/docs-readthedocs-blue.svg
- [docs-readthedocs-link]: https://roastercoffees.readthedocs.io/en/latest/about/
+ [docs-readthedocs-link]: https://roastercoffees.readthedocs.io/en/latest/
  
  ![roastercoffees.com v1](https://roastercoffees.com/wp-content/uploads/2021/08/roastercoffees.com-homepage-v1.png)
 
