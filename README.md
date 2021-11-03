@@ -9,7 +9,7 @@ Welcome to visit us in the following ways:
 
 Website:  [https://roastercoffees.com/](https://roastercoffees.com/)
 
-Download App:  [https://www.amazon.com/dp/B09BM3VYPF](https://www.amazon.com/dp/B09BM3VYPF)
+Download App:  [https://www.amazon.com.au/dp/B09BM3VYPF](https://www.amazon.com.au/dp/B09BM3VYPF)
 
  [docs-readthedocs-svg]: https://img.shields.io/badge/docs-readthedocs-blue.svg
  [docs-readthedocs-link]: https://roastercoffees.readthedocs.io/en/latest/
